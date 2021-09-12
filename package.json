@@ -1,0 +1,14 @@
+{
+  "name": "geekcode",
+  "version": "1.0.0",
+  "description": "Cookie clicker tools.",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZeekDaGeek",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.2.2"
+  }
+}
